@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/30b44161-b6d6-4cd9-9b61-bf1106161d3e)![image](https://github.com/user-attachments/assets/e197eeea-0893-409e-a34d-3ba05d7eab7f)![image](https://github.com/user-attachments/assets/b2ac09b0-5b0f-42ef-8dff-93ff6bb5cd70)# Ex.08 Design of Interactive Image Gallery
-## Date:
-
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
